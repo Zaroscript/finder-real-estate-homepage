@@ -1,0 +1,15 @@
+:root {
+  --primary-color: #111827;
+  --secondary-color: #3d7a81;
+  --btns-primary: #d85151;
+  --btns-hover: #c92d2d;
+  --grey-1: #333d4c;
+  --grey-2: #425562; 
+  --links-color: #cad0d9;
+  --links-hover: rgb(202, 208, 217, 0.25);
+  --white: #fff;
+}
+
+body {
+  font-family: "Inter", serif;
+}
